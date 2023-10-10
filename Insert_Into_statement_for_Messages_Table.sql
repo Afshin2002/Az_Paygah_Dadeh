@@ -1,0 +1,2 @@
+INSERT INTO messages (Message_ID, User_ID, User_Forename, User_Sorename, Message, Message_Date, Message_Time, Message_Type, Message_Delivery, Message_Attachment)
+VALUES ('987326', '46398', 'علی', 'قاسمی', 'سلام. من یک مشکل در هنگام واردشدن به وبسایت داشتم. ممنون میشم اگه راهنماییم کنید.', '1401/08/14', '18:07:36', 'Regular', 1, 'https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2F.google&psig=AOvVaw2qVXNyJMn5-5K1pS-5PM2-&ust=1697049656230000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCLC4xOCQ7IEDFQAAAAAdAAAAABAE');
