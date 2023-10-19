@@ -16,10 +16,10 @@ if (!$conn) {
 // Create the user
 $user_id = "12345";
 $user_password = "a1b2c36";
-$user_email = "ali12@email.com"
-$user_phonenumber = "09137896428"
-$user_verification_code = "6459"
-$deleted = "0"
+$user_email = "ali12@email.com";
+$user_phonenumber = "09137896428";
+$user_verification_code = "6459";
+$deleted = "0";
 
 $sql = "INSERT INTO Users (User_ID, User_Password, User_Email, User_PhoneNumber, User_verification_code, Deleted) VALUES ($user_id, $user_password, $user_email, $user_phonenumber, $user_verification_code, $deleted)";
 
